@@ -46,6 +46,8 @@ This project helps understand how Redux manages shared state across components.
 
 📂 Folder: `shopping-cart/`
 
+---
+
 ### 3. counter
 A simple Counter project created to practice the basic concepts of Redux and Redux Toolkit.
 
@@ -58,6 +60,8 @@ Features:
 This project helps understand how Redux manages and updates global state using actions, reducers, and dispatching actions from components.
 
 📂 Folder: `counter/`
+
+---
 
 ### 4. thunk-practice
 A basic Post App created to understand asynchronous state management using Redux Toolkit thunks.
