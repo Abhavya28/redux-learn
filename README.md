@@ -48,6 +48,37 @@ This project helps understand how Redux manages shared state across components.
 
 ---
 
+### 3. counter
+A simple Counter project created to practice the basic concepts of Redux and Redux Toolkit.
+
+Features:
+- Increment count
+- Decrement count
+- Reset counter
+- Increment by custom value
+
+This project helps understand how Redux manages and updates global state using actions, reducers, and dispatching actions from components.
+
+📂 Folder: `counter/`
+
+---
+
+### 4. thunk-practice
+A basic Post App created to understand asynchronous state management using Redux Toolkit thunks.
+
+Features:
+- Fetch posts from API
+- Fetch users from API
+- Add new posts
+- Update and delete posts
+- Manage loading and error states
+
+This project helps understand how `createAsyncThunk` works with APIs and how asynchronous actions are handled inside Redux Toolkit.
+
+📂 Folder: `thunk-practice/`
+
+---
+
 ## 🛠 Tech Stack
 - React
 - Redux Toolkit
