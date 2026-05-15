@@ -79,6 +79,23 @@ This project helps understand how `createAsyncThunk` works with APIs and how asy
 
 ---
 
+### 5. todo-app
+A basic Todo App created to understand API data fetching and state management using RTK Query.
+
+Features:
+
+- Fetch todos from API
+- Add new todos
+- Update todo status
+- Delete todos
+- Automatic caching and refetching using tags
+
+This project helps understand how RTK Query handles API requests, caching, mutations, and automatic state updates in Redux Toolkit.
+
+📂 Folder: `todo-app/`
+
+---
+
 ## 🛠 Tech Stack
 - React
 - Redux Toolkit
